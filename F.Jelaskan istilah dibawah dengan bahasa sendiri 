@@ -1,0 +1,21 @@
+
+1. Cypress:
+Cypress adalah sebuah framework pengujian (testing) otomatis untuk aplikasi web modern. Dengan Cypress, pengembang dapat menulis dan menjalankan tes otomatis untuk memastikan bahwa aplikasi web mereka berfungsi dengan benar. Cypress memiliki kemampuan untuk melakukan pengujian end-to-end dan integrasi, serta menyediakan alat bantu untuk menangani kebutuhan pengujian pada tingkat pengembangan
+
+2. Kubernetes:
+Kubernetes adalah sebuah sistem sumber terbuka yang digunakan untuk mengelola dan menyebarkan aplikasi kontainer. Kubernetes menyediakan kerangka kerja yang memungkinkan pengembang untuk mengelola aplikasi dan layanan secara efisien di lingkungan yang dapat diskalakan. Ini memberikan otomatisasi dalam manajemen siklus hidup aplikasi, termasuk skalabilitas dan penjadwalan
+
+3. ORM (Object-Relational Mapping):
+ORM adalah pendekatan dalam pengembangan perangkat lunak yang memungkinkan pengembang untuk berinteraksi dengan basis data menggunakan objek dalam bahasa pemrograman yang mereka gunakan. Ini mengabstraksi hubungan antara basis data relasional dan kode aplikasi, memungkinkan manipulasi data menggunakan objek dan kelas tanpa perlu menulis query SQL secara eksplisit
+
+4. Class:
+Class adalah sebuah konsep dalam pemrograman berbasis objek (OOP) yang menggambarkan sebuah cetakan atau blueprint untuk membuat objek. Objek merupakan instance dari suatu class, dan class mendefinisikan properti (atribut) dan metode (fungsi) yang dimiliki oleh objek tersebut
+
+5. Function:
+Function adalah blok kode yang dapat dipanggil untuk melakukan tugas tertentu atau menghasilkan nilai. Dalam pemrograman, fungsi digunakan untuk mengorganisir dan memecah kode menjadi bagian-bagian yang lebih kecil dan dapat digunakan kembali
+
+6. DevOps:
+DevOps adalah praktik penggabungan antara pengembangan (Development) dan operasi (Operations) dalam siklus pengembangan perangkat lunak. Tujuan utama dari DevOps adalah untuk meningkatkan kerjasama antara tim pengembangan dan tim operasional, serta mempercepat proses pengembangan, pengujian, dan penyebaran perangkat lunak
+
+7. Docker:
+Docker adalah platform perangkat lunak yang digunakan untuk mengemas, mendistribusikan, dan menjalankan aplikasi dalam lingkungan kontainer. Kontainer Docker memungkinkan pengembang untuk mengisolasi aplikasi dan dependensinya, sehingga aplikasi dapat dijalankan secara konsisten di berbagai lingkungan

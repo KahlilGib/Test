@@ -1,0 +1,8 @@
+   SELECT DISTINCT "item"
+   FROM "ASSET" a ;
+
+   SELECT 
+   "user_id",
+   GROUP_CONCAT(DISTINCT "item" ORDER BY "item") AS "asset"
+   FROM "ASSET"
+   GROUP BY "user_id";

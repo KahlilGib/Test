@@ -1,0 +1,5 @@
+1. serverless, karena developer bisa fokus pada logika bisnis tanpa harus mengelola server
+
+2. microservice, karena aplikasi dibangun secara terpisah, ha ini memudahkan developer untuk mengelola dan menyusun aplikasi
+
+3. monolit, untuk kasus penggunaan kompleksitas rendah hingga menengah
